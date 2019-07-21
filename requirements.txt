@@ -8,7 +8,7 @@ PyStaticConfiguration==0.10.3
 MarkupSafe==0.23
 PyYAML==3.12
 arrow==0.10.0
-Flask==0.12.2
+Flask~>1.0.0
 Flask-Bootstrap==3.3.7.1
 Flask-WTF==0.14.2
 pytest
